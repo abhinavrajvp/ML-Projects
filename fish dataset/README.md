@@ -7,5 +7,5 @@
 
 Description:
 
-In this project i am using machine learning to predict the Fish Measurement. The data set is taken from kaggle
+In this project i am predicting the Fish Measurement using machine learning . The data set is taken from kaggle
 
